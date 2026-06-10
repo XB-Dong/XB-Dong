@@ -17,17 +17,6 @@
 
 ---
 
-## 墨迹所至，先写工程
-
-我喜欢把项目做成“能跑、能查、能扩展”的完整系统，而不是只停在页面或接口。  
-在全栈项目里，我更在意三件事：
-
-- **业务链路闭环**：从创建拍品、进入直播间、实时出价、裁决胜者到订单结算，流程要完整。
-- **实时状态可靠**：高频出价、倒计时、排行、重连恢复都不能只靠前端“看起来像实时”。
-- **AI 能力贴近场景**：让语义检索、推荐、辅助搜索服务于真实业务，而不是做孤立演示。
-
----
-
 ## 主轴项目：全栈直播竞拍平台
 
 ### [ByteDanceliveauctioni](https://github.com/Ye-yellow/ByteDanceliveauctioni)
@@ -69,23 +58,18 @@
 
 ### [LLM-NHO](https://github.com/TIO-Team/LLM-NHO)
 
-参与导师一作、学生二作的 `TEVC` 论文代码仓库：**Large Language Model-Driven Neural-Heuristic Optimization for Large-Scale Routing Problems**。  
-方向聚焦 `LLM` 驱动的神经启发式优化，用于 `TSP` 与 `CVRP` 等大规模路径问题。
+参与 `TEVC` 论文代码仓库 **Large Language Model-Driven Neural-Heuristic Optimization for Large-Scale Routing Problems**，聚焦 `LLM` 驱动的大规模路径优化。
 
 ### 简历模板开源
 
-- [Chinese-Resume-Template-of-SZU](https://github.com/XB-Dong/Chinese-Resume-Template-of-SZU)：深圳大学中文简历 `Overleaf` 模板。
-- [SZU-Job-Resume](https://github.com/XB-Dong/SZU-Job-Resume)：面向求职场景的 `Overleaf` 简历模板。
+- [Chinese-Resume-Template-of-SZU](https://github.com/XB-Dong/Chinese-Resume-Template-of-SZU)：开源深圳大学中文简历 `Overleaf` 模板。
+- [SZU-Job-Resume](https://github.com/XB-Dong/SZU-Job-Resume)：开源面向求职场景的 `Overleaf` 简历模板。
 
 ---
 
 ## 竞赛与荣誉
 
-**人工智能挑战赛 - 智能体决策算法高级赛道区域赛，华南赛区二等奖**
-
-<p align="center">
-  <img src="./华南二等奖.png" alt="人工智能挑战赛智能体决策算法高级赛道华南赛区二等奖证书" width="82%" />
-</p>
+人工智能挑战赛 - 智能体决策算法高级赛道区域赛，华南赛区二等奖。
 
 ---
 
