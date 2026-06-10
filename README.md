@@ -2,7 +2,7 @@
   <img src="./assets/ink-profile-banner.svg" alt="董信步的水墨开发者主页横幅" width="100%" />
 </p>
 
-## 巅峰项目：字节跳动-AI全栈直播竞拍平台
+## 🚀 巅峰项目：字节跳动-AI全栈直播竞拍平台
 
 ### [ByteDanceliveauctioni](https://github.com/Ye-yellow/ByteDanceliveauctioni)
 
@@ -10,11 +10,12 @@
 
 ---
 
-## 研究与开源
+## 📚 研究与开源
 
 ### [LLM-NHO](https://github.com/TIO-Team/LLM-NHO)
 
 以导师一作、学生二作身份发表 **Large Language Model-Driven Neural-Heuristic Optimization for Large-Scale Routing Problems**，聚焦 `LLM` 驱动的大规模路径优化。
+论文发表在 **IEEE Transactions on Evolutionary Computation**（TEVC：SCI一区TOP期刊）。
 
 ### 简历模板开源
 
@@ -23,12 +24,12 @@
 
 ---
 
-## 竞赛与荣誉
+## 🏆 竞赛与荣誉
 
 人工智能挑战赛 - 智能体决策算法高级赛道区域赛，华南赛区二等奖。
 
 ---
 
-## 我如何定义我自己：
+## 🧭 我如何定义我自己：
 
-AI全栈技术的践行者 / 拥抱大模型的爱好者 / 具有优化思维的开拓者
+AI全栈技术的践行者 / 拥抱大模型的爱好者 / 具有优化思维的开拓者 ٩(ˊᗜˋ*)و
