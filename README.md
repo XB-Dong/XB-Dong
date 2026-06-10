@@ -10,22 +10,6 @@
 
 ---
 
-## 技术栈
-
-### 后端与基础设施
-
-`Go` · `RESTful API` · `WebSocket` · `Redis` · `Lua` · `MySQL` · `PostgreSQL / pgvector` · `Docker` · `Prometheus` · `Grafana`
-
-### 前端与产品界面
-
-`React` · `TypeScript` · `Vite` · `H5` · 商家控制台 · 移动端直播间 · 数据看板
-
-### AI 与算法
-
-`Embedding` · 向量检索 · 语义搜索 · 推荐 · `PyTorch` · 大规模路径优化 · `TSP / CVRP`
-
----
-
 ## 研究与开源
 
 ### [LLM-NHO](https://github.com/TIO-Team/LLM-NHO)
@@ -43,9 +27,8 @@
 
 人工智能挑战赛 - 智能体决策算法高级赛道区域赛，华南赛区二等奖。
 
-<div align="center">
+---
 
-**山水有留白，代码要闭环。**  
-欢迎交流全栈开发、AI 工程、实时系统与优化算法。
+## 我如何定义我自己：
 
-</div>
+AI全栈技术的践行者 / 拥抱大模型的爱好者 / 具有优化思维的开拓者
