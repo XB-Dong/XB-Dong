@@ -10,7 +10,7 @@
 
 ---
 
-## 📚 研究与开源
+## 📚 顶刊论文：大模型驱动的神经-启发式大规模路径优化
 
 ### [LLM-NHO](https://github.com/TIO-Team/LLM-NHO)
 
