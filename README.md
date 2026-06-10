@@ -2,21 +2,6 @@
   <img src="./assets/ink-profile-banner.svg" alt="董信步的水墨开发者主页横幅" width="100%" />
 </p>
 
-<div align="center">
-
-# 董信步 ｜ XB-Dong
-
-**全栈开发者 / AI 工程实践者 / 优化算法研究参与者**
-
-把实时系统、业务闭环和 AI 能力揉进可运行的产品里。  
-目前更关注：**直播竞拍、实时协同、后端可靠性、AI 辅助业务系统**。
-
-[GitHub](https://github.com/XB-Dong) · [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=4w56hlIAAAAJ) · [LLM-NHO](https://github.com/TIO-Team/LLM-NHO)
-
-</div>
-
----
-
 ## 主轴项目：全栈直播竞拍平台
 
 ### [ByteDanceliveauctioni](https://github.com/Ye-yellow/ByteDanceliveauctioni)
