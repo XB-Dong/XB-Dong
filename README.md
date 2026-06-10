@@ -6,7 +6,7 @@
 
 ### [ByteDanceliveauctioni](https://github.com/Ye-yellow/ByteDanceliveauctioni)
 
-我作为合作者参与的全栈直播电商竞拍项目，覆盖 `Go` 后端、`React / TypeScript` 前端、`WebSocket` 实时竞价、`Redis Lua` 出价裁决、订单结算与 AI 语义检索。
+作为合作者参与的全栈直播电商竞拍项目，覆盖 `Go` 后端、`React / TypeScript` 前端、`WebSocket` 实时竞价、`Redis Lua` 出价裁决、订单结算与 AI 语义检索。
 
 ---
 
