@@ -17,7 +17,7 @@
 以导师一作、学生二作身份发表 **Large Language Model-Driven Neural-Heuristic Optimization for Large-Scale Routing Problems**，聚焦 `LLM` 驱动的大规模路径优化。
 论文发表在 **IEEE Transactions on Evolutionary Computation**（TEVC：SCI一区TOP期刊）。
 
-### 简历模板开源
+## 简历开源：面向SZU校友与求职
 
 - [Chinese-Resume-Template-of-SZU](https://github.com/XB-Dong/Chinese-Resume-Template-of-SZU)：开源深圳大学中文简历 `Overleaf` 模板。
 - [SZU-Job-Resume](https://github.com/XB-Dong/SZU-Job-Resume)：开源面向求职场景的 `Overleaf` 简历模板。

@@ -29,7 +29,7 @@
   <rect y="244" width="1200" height="116" fill="url(#bottomWash)"/>
 
   <g transform="translate(68 108)">
-    <text class="poem" x="0" y="0">董某，海滨邹鲁一码生也，今得见君，幸甚！</text>
-    <text class="poem-small" x="0" y="58">莫愁前路无知己，天下谁人不识君。</text>
+    <text class="poem" x="0" y="0">董某，海滨邹鲁一码生也，今得见君，幸甚</text>
+    <text class="poem-small" x="0" y="58">莫愁前路无知己，天下谁人不识君</text>
   </g>
 </svg>
