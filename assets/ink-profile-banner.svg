@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">董信步的水墨开发者主页横幅</title>
+  <desc id="desc">中国水墨画风格的 GitHub 个人主页横幅，突出全栈竞拍系统、实时出价和 AI 工程实践。</desc>
+  <defs>
+    <linearGradient id="paper" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#fbf7ec"/>
+      <stop offset="0.52" stop-color="#f2ead7"/>
+      <stop offset="1" stop-color="#fffaf0"/>
+    </linearGradient>
+    <linearGradient id="ink" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#101010" stop-opacity="0.95"/>
+      <stop offset="0.55" stop-color="#25322c" stop-opacity="0.86"/>
+      <stop offset="1" stop-color="#111111" stop-opacity="0.7"/>
+    </linearGradient>
+    <filter id="softInk">
+      <feTurbulence type="fractalNoise" baseFrequency="0.018" numOctaves="4" seed="8"/>
+      <feDisplacementMap in="SourceGraphic" scale="9"/>
+      <feGaussianBlur stdDeviation="0.35"/>
+    </filter>
+    <filter id="paperNoise">
+      <feTurbulence type="fractalNoise" baseFrequency="0.75" numOctaves="2" seed="18"/>
+      <feColorMatrix type="matrix" values="0 0 0 0 0.55 0 0 0 0 0.48 0 0 0 0 0.36 0 0 0 .10 0"/>
+      <feBlend in="SourceGraphic" mode="multiply"/>
+    </filter>
+    <style>
+      .title { font: 800 58px "Noto Serif CJK SC", "Songti SC", "SimSun", serif; fill: #111; letter-spacing: 3px; }
+      .subtitle { font: 500 22px "Noto Serif CJK SC", "Microsoft YaHei", sans-serif; fill: #2b2b2b; }
+      .small { font: 500 17px "Noto Serif CJK SC", "Microsoft YaHei", sans-serif; fill: #333; }
+      .tech { font: 700 18px "Consolas", "Microsoft YaHei", monospace; fill: #161616; }
+      .seal { font: 800 23px "Noto Serif CJK SC", "SimSun", serif; fill: #f8efe3; writing-mode: tb; glyph-orientation-vertical: 0; }
+    </style>
+  </defs>
+
+  <rect width="1200" height="360" rx="26" fill="url(#paper)" filter="url(#paperNoise)"/>
+
+  <g opacity="0.34" filter="url(#softInk)">
+    <path d="M-20,284 C132,228 188,154 304,181 C408,204 461,116 574,151 C671,181 757,84 880,126 C1007,169 1056,110 1222,150 L1222,360 L-20,360 Z" fill="#1a1a1a"/>
+    <path d="M-8,312 C98,276 211,267 311,288 C419,310 517,258 636,277 C770,298 845,241 969,264 C1068,282 1126,248 1210,256 L1210,360 L-8,360 Z" fill="#0f1712"/>
+  </g>
+
+  <g opacity="0.18" filter="url(#softInk)">
+    <path d="M67 96 C164 58 222 74 306 46 C382 21 454 48 510 75" fill="none" stroke="#101010" stroke-width="18" stroke-linecap="round"/>
+    <path d="M827 76 C916 44 1019 74 1125 41" fill="none" stroke="#101010" stroke-width="14" stroke-linecap="round"/>
+    <path d="M710 293 C793 252 853 232 928 244" fill="none" stroke="#101010" stroke-width="13" stroke-linecap="round"/>
+  </g>
+
+  <g transform="translate(70 76)">
+    <text class="title" x="0" y="0">董信步</text>
+    <text class="subtitle" x="4" y="48">全栈开发 · 实时竞拍系统 · AI 工程实践</text>
+    <text class="small" x="4" y="88">以工程落地为骨，以算法研究为墨；把复杂业务写成可靠系统。</text>
+  </g>
+
+  <g transform="translate(76 215)">
+    <rect x="0" y="0" width="610" height="54" rx="11" fill="#fbf7ec" opacity="0.82" stroke="#1d1d1d" stroke-opacity="0.22"/>
+    <text class="tech" x="20" y="35">Go API  ·  WebSocket  ·  Redis Lua  ·  MySQL  ·  React / TypeScript</text>
+  </g>
+
+  <g transform="translate(725 70)">
+    <path d="M88 42 L158 112" stroke="#141414" stroke-width="11" stroke-linecap="round"/>
+    <path d="M149 30 L206 87" stroke="#141414" stroke-width="17" stroke-linecap="round"/>
+    <path d="M72 55 L113 15" stroke="#141414" stroke-width="17" stroke-linecap="round"/>
+    <path d="M154 120 L254 220" stroke="#141414" stroke-width="12" stroke-linecap="round"/>
+    <path d="M236 231 L286 181" stroke="#141414" stroke-width="13" stroke-linecap="round"/>
+    <path d="M44 238 C98 220 156 213 220 221 C270 228 316 224 364 206" fill="none" stroke="#101010" stroke-width="10" stroke-linecap="round" opacity="0.56" filter="url(#softInk)"/>
+    <text class="small" x="6" y="280">直播竞拍 · 出价裁决 · 订单结算 · AI 辅助</text>
+  </g>
+
+  <g transform="translate(1080 45)">
+    <rect width="58" height="102" rx="5" fill="#a72b20" opacity="0.92"/>
+    <text class="seal" x="29" y="13">开源</text>
+  </g>
+
+  <g opacity="0.26">
+    <circle cx="1002" cy="63" r="45" fill="none" stroke="#a72b20" stroke-width="3"/>
+    <path d="M970 66 C991 42 1022 42 1038 67 C1014 84 990 85 970 66Z" fill="#a72b20" opacity="0.13"/>
+  </g>
+</svg>
