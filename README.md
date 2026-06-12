@@ -6,7 +6,7 @@
 
 ### [ByteDanceliveauctioni](https://github.com/Ye-yellow/ByteDanceliveauctioni)
 
-作为合作者参与的全栈直播电商竞拍项目，覆盖 `Go` 后端、`React / TypeScript` 前端、`WebSocket` 实时竞价、`Redis Lua` 出价裁决、订单结算与 AI 语义检索。
+作为合作者参与的全栈直播电商竞拍项目，把直播间、实时出价、后端裁决、订单结算与 AI 语义检索接成一条能跑的业务链路。
 
 ---
 
@@ -14,13 +14,13 @@
 
 ### [LLM-NHO](https://github.com/TIO-Team/LLM-NHO)
 
-以导师一作、学生二作身份发表 **Large Language Model-Driven Neural-Heuristic Optimization for Large-Scale Routing Problems**，聚焦 `LLM` 驱动的大规模路径优化。
+以导师一作、学生二作身份发表 **Large Language Model-Driven Neural-Heuristic Optimization for Large-Scale Routing Problems**，把 `LLM` 能力放进大规模路径优化问题里。
 论文发表在 **IEEE Transactions on Evolutionary Computation**（TEVC：SCI一区TOP期刊）。
 
 ## 📄 简历开源：面向SZU校友与求职
 
-- [Chinese-Resume-Template-of-SZU](https://github.com/XB-Dong/Chinese-Resume-Template-of-SZU)：开源深圳大学中文简历 `Overleaf` 模板。
-- [SZU-Job-Resume](https://github.com/XB-Dong/SZU-Job-Resume)：开源面向求职场景的 `Overleaf` 简历模板。
+- [Chinese-Resume-Template-of-SZU](https://github.com/XB-Dong/Chinese-Resume-Template-of-SZU)：让 SZU 中文简历在 `Overleaf` 上开箱可写。
+- [SZU-Job-Resume](https://github.com/XB-Dong/SZU-Job-Resume)：面向求职场景整理的 `Overleaf` 简历模板。
 
 ---
 
@@ -32,4 +32,5 @@
 
 ## 🧭 我如何定义我自己：
 
+写全栈，也写算法；看前沿，也看落地。  
 AI全栈技术的践行者 / 拥抱大模型前沿AI发展的爱好者 / 具有运筹优化工程思维的开拓者  ٩(ˊᗜˋ*)و
