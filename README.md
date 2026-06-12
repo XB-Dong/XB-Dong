@@ -4,18 +4,16 @@
 
 ## 🚀 巅峰项目：字节跳动-AI全栈直播竞拍平台
 
-### [ByteDanceliveauctioni](https://github.com/Ye-yellow/ByteDanceliveauctioni)
-
-作为合作者参与的全栈直播电商竞拍项目，覆盖 `Go` 后端、`React / TypeScript` 前端、`WebSocket` 实时竞价、`Redis Lua` 出价裁决、订单结算与 AI 语义检索。
+**[ByteDanceliveauctioni](https://github.com/Ye-yellow/ByteDanceliveauctioni)**：作为合作者参与的全栈直播电商竞拍项目，覆盖 `Go` 后端、`React / TypeScript` 前端、`WebSocket` 实时竞价、`Redis Lua` 出价裁决、订单结算与 AI 语义检索。
 
 ---
 
 ## 📚 顶刊论文：大模型驱动的神经-启发式大规模路径优化
 
-### [LLM-NHO](https://github.com/TIO-Team/LLM-NHO)
-
-以导师一作、学生二作身份发表 **Large Language Model-Driven Neural-Heuristic Optimization for Large-Scale Routing Problems**，聚焦 `LLM` 驱动的大规模路径优化。
+**[LLM-NHO](https://github.com/TIO-Team/LLM-NHO)**：以导师一作、学生二作身份发表 **Large Language Model-Driven Neural-Heuristic Optimization for Large-Scale Routing Problems**，聚焦 `LLM` 驱动的大规模路径优化。  
 论文发表在 **IEEE Transactions on Evolutionary Computation**（TEVC：SCI一区TOP期刊）。
+
+---
 
 ## 📄 简历开源：面向SZU校友与求职
 
