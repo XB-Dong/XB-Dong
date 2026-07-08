@@ -2,7 +2,7 @@
   <img src="./assets/ink-profile-banner.svg" alt="董信步的水墨开发者主页横幅" width="100%" />
 </p>
 
-## 🚀 巅峰项目：字节跳动-AI全栈直播竞拍平台
+## 🚀 巅峰项目：字节跳动-抖音电商 AI 全栈挑战赛第二名｜参赛队伍“粤海带专”队长
 
 ### [ByteDanceliveauctioni](https://github.com/Ye-yellow/ByteDanceliveauctioni)
 
