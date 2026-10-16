@@ -1,0 +1,223 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="520" viewBox="0 0 1280 520" role="img" aria-labelledby="hero-title hero-desc">
+  <title id="hero-title">董信步 · 以码为舟，山海可渡</title>
+  <desc id="hero-desc">一卷黛青色的现代东方山水。金色月轮与星轨悬于青绿群山之上，山间有亭，水上有舟。左侧题字：以码为舟，山海可渡。在工程与研究之间，探索更远的山海。</desc>
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0c2226"/>
+      <stop offset=".58" stop-color="#102d31"/>
+      <stop offset="1" stop-color="#0c2226"/>
+    </linearGradient>
+    <radialGradient id="moon-halo">
+      <stop offset="0" stop-color="#b8c798" stop-opacity=".1"/>
+      <stop offset=".46" stop-color="#8eb394" stop-opacity=".035"/>
+      <stop offset="1" stop-color="#8eb394" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="moon" x1="0" y1="0" x2=".85" y2="1">
+      <stop stop-color="#d4d1a8"/>
+      <stop offset=".58" stop-color="#9daf90"/>
+      <stop offset="1" stop-color="#769b88"/>
+    </linearGradient>
+    <linearGradient id="far-mountain" x1="0" y1="0" x2="0" y2="1">
+      <stop stop-color="#385f58"/>
+      <stop offset="1" stop-color="#173d3b" stop-opacity=".65"/>
+    </linearGradient>
+    <linearGradient id="middle-mountain" x1=".3" y1="0" x2=".6" y2="1">
+      <stop stop-color="#4f9278"/>
+      <stop offset=".48" stop-color="#2e6f62"/>
+      <stop offset="1" stop-color="#15453f"/>
+    </linearGradient>
+    <linearGradient id="jade-ridge" x1=".2" y1="0" x2=".9" y2="1">
+      <stop stop-color="#70a68a"/>
+      <stop offset=".28" stop-color="#3d896f"/>
+      <stop offset=".69" stop-color="#216554"/>
+      <stop offset="1" stop-color="#15493f"/>
+    </linearGradient>
+    <linearGradient id="foreground" x1="0" y1="0" x2="0" y2="1">
+      <stop stop-color="#286657"/>
+      <stop offset=".6" stop-color="#16443e"/>
+      <stop offset="1" stop-color="#0e302f"/>
+    </linearGradient>
+    <linearGradient id="mist" x1="0" y1="0" x2="1" y2="0">
+      <stop stop-color="#7baba0" stop-opacity="0"/>
+      <stop offset=".5" stop-color="#91b9a8" stop-opacity=".14"/>
+      <stop offset="1" stop-color="#91b9a8" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#e2cca0"/>
+      <stop offset=".6" stop-color="#bd9f65"/>
+      <stop offset="1" stop-color="#8d784c"/>
+    </linearGradient>
+    <linearGradient id="water" x1="0" y1="0" x2="0" y2="1">
+      <stop stop-color="#143a39" stop-opacity="0"/>
+      <stop offset="1" stop-color="#071c21" stop-opacity=".8"/>
+    </linearGradient>
+    <linearGradient id="text-shade" x1="0" y1="0" x2="1" y2="0">
+      <stop stop-color="#0c2226" stop-opacity=".52"/>
+      <stop offset=".75" stop-color="#0c2226" stop-opacity=".15"/>
+      <stop offset="1" stop-color="#0c2226" stop-opacity="0"/>
+    </linearGradient>
+    <clipPath id="canvas"><rect width="1280" height="520" rx="18"/></clipPath>
+    <style>
+      .calligraphy { font-family: KaiTi, STKaiti, "Kaiti SC", SimSun, serif; }
+      .small-cn { font-family: SimSun, "Songti SC", serif; }
+      .latin { font-family: "Segoe UI", Arial, sans-serif; }
+      .star { animation: star-breath 7s ease-in-out infinite; }
+      .star-late { animation-delay: -3s; }
+      @keyframes star-breath { 0%,100% { opacity: .5; } 50% { opacity: 1; } }
+      @media (prefers-reduced-motion: reduce) { .star { animation: none; } }
+    </style>
+  </defs>
+
+  <g clip-path="url(#canvas)">
+    <rect width="1280" height="520" fill="url(#sky)"/>
+    <ellipse cx="1017" cy="111" rx="190" ry="170" fill="url(#moon-halo)"/>
+
+    <!-- The astronomical lines are fine gold thread through an ink sky. -->
+    <g fill="none" stroke="#c3ab78" stroke-width=".8">
+      <path d="M765 0C825 83 935 136 1066 132 1165 129 1245 91 1294 37" opacity=".2"/>
+      <path d="M832-21C854 43 926 88 1024 101 1115 114 1214 95 1298 48" opacity=".3"/>
+      <path d="M1043-17C1164 13 1235 91 1255 193" opacity=".23"/>
+      <path d="M1218 21A232 232 0 0 1 1276 163" opacity=".16"/>
+    </g>
+    <circle cx="1018" cy="112" r="48" fill="url(#moon)"/>
+    <circle cx="1018" cy="112" r="52" fill="none" stroke="#c5b382" stroke-width=".7" opacity=".44"/>
+    <path d="M995 72A45 45 0 0 1 1056 132" fill="none" stroke="#ede0b7" stroke-width=".6" opacity=".3"/>
+    <g fill="#d7c18e">
+      <circle class="star" cx="1146" cy="92" r="2"/>
+      <circle class="star star-late" cx="858" cy="59" r="1.8"/>
+      <circle cx="1203" cy="57" r="1.2" opacity=".55"/>
+      <circle cx="915" cy="31" r="1" opacity=".5"/>
+      <circle cx="777" cy="120" r="1" opacity=".45"/>
+      <circle cx="1118" cy="39" r="1" opacity=".42"/>
+      <circle cx="1190" cy="158" r="1" opacity=".4"/>
+    </g>
+    <path d="M1146 85v14m-7-7h14" fill="none" stroke="#d6c18f" stroke-width=".6" opacity=".7"/>
+    <path d="M858 54v10m-5-5h10" fill="none" stroke="#d6c18f" stroke-width=".6" opacity=".5"/>
+
+    <!-- Distant rounded peaks emerge in cool, translucent layers. -->
+    <path d="M556 348C602 336 615 302 645 290 673 278 689 294 712 268 733 245 727 213 752 202 778 189 779 218 800 209 823 199 826 164 847 161 868 158 868 184 885 184 903 185 909 148 931 142 951 135 962 167 979 169 1006 174 1012 198 1034 203 1057 207 1069 186 1087 190 1114 197 1107 233 1136 238 1165 242 1181 222 1207 231 1237 240 1248 270 1280 275V413H556Z" fill="url(#far-mountain)" opacity=".64"/>
+    <path d="M665 341C710 314 712 278 742 270 768 264 776 287 798 273 827 254 827 210 849 202 865 197 876 223 893 224 910 224 917 198 934 202 954 207 958 239 975 247 995 257 1007 238 1028 246 1053 255 1066 287 1091 285 1113 285 1134 273 1155 286 1182 303 1201 320 1247 314L1280 312V417H665Z" fill="#34685d" opacity=".55"/>
+
+    <!-- The main mountain is an asymmetric, flowing hand-drawn silhouette. -->
+    <path d="M702 382C735 367 753 341 768 315 783 289 790 269 805 262 816 256 830 261 840 248 855 227 854 188 875 178 893 169 907 186 915 206 924 228 937 232 948 219 964 199 957 163 976 154 997 143 1003 172 1019 174 1045 178 1047 157 1062 151 1083 143 1089 180 1103 181 1117 182 1121 158 1135 151 1161 138 1160 103 1180 98 1199 92 1205 123 1215 136 1226 152 1244 142 1252 164 1265 195 1257 211 1280 229V435H702Z" fill="url(#middle-mountain)"/>
+    <path d="M808 320C827 298 837 278 840 248 855 227 854 188 875 178 893 169 907 186 915 206 924 228 937 232 948 219 942 247 930 261 926 283 920 309 935 332 950 346 908 335 873 335 836 352Z" fill="#0d403b" opacity=".45"/>
+    <path d="M959 248C970 214 960 164 976 154 997 143 1003 172 1019 174 1045 178 1047 157 1062 151 1083 143 1089 180 1103 181 1084 198 1071 209 1061 232 1046 267 1056 297 1067 320 1027 303 997 289 959 290Z" fill="#73a68a" opacity=".2"/>
+    <path d="M1102 276C1121 242 1116 198 1135 181 1150 166 1160 150 1165 129 1169 113 1171 103 1180 98 1187 98 1195 111 1197 123 1202 161 1183 186 1190 218 1197 252 1221 273 1233 306Z" fill="#97b493" opacity=".18"/>
+    <path d="M1167 127C1171 111 1174 102 1180 98 1199 92 1205 123 1215 136 1226 152 1244 142 1252 164 1265 195 1257 211 1280 229" fill="none" stroke="url(#gold)" stroke-width="1.25" opacity=".8"/>
+    <path d="M790 282C800 258 815 263 829 258 853 249 851 194 875 178 889 170 902 183 908 194" fill="none" stroke="url(#gold)" stroke-width=".95" opacity=".65"/>
+    <path d="M961 190C965 171 963 160 976 154 989 148 997 158 1002 168" fill="none" stroke="#d0bb86" stroke-width="1" opacity=".72"/>
+    <path d="M1034 172C1047 169 1047 157 1062 151 1077 146 1083 164 1089 175" fill="none" stroke="#d0bb86" stroke-width=".85" opacity=".5"/>
+
+    <!-- Broken mineral veins follow the rock, with no repeated pattern. -->
+    <g fill="none" stroke-linecap="round">
+      <g stroke="#99b895" stroke-width=".85" opacity=".3">
+        <path d="M878 188C868 213 881 232 866 253 855 270 845 284 846 309"/>
+        <path d="M888 202C893 227 882 249 885 266 886 280 899 291 895 307"/>
+        <path d="M906 245C908 264 898 279 908 297"/>
+        <path d="M982 169C982 188 994 201 990 221 986 241 982 251 987 273"/>
+        <path d="M1006 202C1017 213 1011 232 1022 246 1033 260 1037 275 1033 289"/>
+        <path d="M1060 171C1051 188 1057 202 1048 218"/>
+        <path d="M1181 119C1184 142 1173 156 1174 179 1176 199 1162 212 1165 232"/>
+        <path d="M1204 168C1203 183 1215 194 1212 214 1208 234 1218 248 1229 261"/>
+        <path d="M1244 184C1246 207 1238 218 1247 237"/>
+      </g>
+      <g stroke="#123e37" stroke-width="2" opacity=".4">
+        <path d="M863 226C869 241 852 270 857 287"/>
+        <path d="M875 272C872 288 880 298 879 314"/>
+        <path d="M995 196C1002 216 995 229 1002 248"/>
+        <path d="M1017 262C1029 277 1023 288 1030 301"/>
+        <path d="M1161 207C1158 226 1164 240 1155 256"/>
+        <path d="M1190 251C1199 263 1197 275 1206 287"/>
+      </g>
+    </g>
+
+    <!-- Long banks of mist connect the mountains to the open lake. -->
+    <path d="M601 342C744 319 804 347 900 334 1013 319 1132 331 1280 305V342C1137 362 1057 343 927 355 816 366 728 343 601 360Z" fill="url(#mist)"/>
+    <path d="M735 361C853 349 945 370 1055 354 1156 340 1219 350 1280 342" fill="none" stroke="#a7bd9f" stroke-width=".7" opacity=".16"/>
+
+    <!-- Jade foothill curls around a tiny sheltered pavilion. -->
+    <path d="M866 409C897 389 911 367 934 356 955 347 972 360 988 345 1004 330 1001 302 1019 292 1040 281 1050 307 1065 303 1080 297 1085 279 1103 277 1127 274 1132 297 1151 298 1178 299 1181 276 1207 278 1236 280 1250 310 1280 307V466H866Z" fill="url(#jade-ridge)"/>
+    <path d="M934 356C955 347 972 360 988 345 1004 330 1001 302 1019 292 1040 281 1050 307 1065 303 1080 297 1085 279 1103 277 1127 274 1132 297 1151 298" fill="none" stroke="#c0b27b" stroke-width="1" opacity=".8"/>
+    <path d="M1003 357C1017 340 1019 322 1022 307 1029 321 1032 339 1049 347 1070 357 1081 365 1082 383" fill="none" stroke="#aac29a" stroke-width=".85" opacity=".37"/>
+    <path d="M1099 292C1086 316 1091 333 1084 348M1111 307C1123 324 1118 343 1128 354M1198 292C1184 310 1188 330 1177 345" fill="none" stroke="#9eb88d" stroke-width=".8" opacity=".28"/>
+    <path d="M1024 350C1055 365 1085 357 1118 373 1139 383 1165 379 1177 389" fill="none" stroke="#123f36" stroke-width="2" opacity=".5"/>
+
+    <!-- Small pavilion, stone steps, and an old pine. -->
+    <g stroke-linejoin="round" stroke-linecap="round">
+      <path d="M1119 305 1130 305 1142 310 1142 314 1118 314Z" fill="#173a32"/>
+      <path d="M1119 312h24m-20-3h16" fill="none" stroke="#b3a26f" stroke-width="1"/>
+      <path d="M1123 308v-18m16 18v-18m-13 18v-17m10 17v-17" stroke="#c1ad77" stroke-width="1.3"/>
+      <path d="M1113 291C1121 289 1126 285 1131 279 1136 285 1141 289 1149 291L1142 293H1120Z" fill="#12362f" stroke="#c5b07a" stroke-width="1"/>
+      <path d="M1117 290C1125 289 1137 289 1145 290M1131 276v4" fill="none" stroke="#c5b07a" stroke-width=".75"/>
+      <path d="M1127 315 1121 319 1119 323 1112 327 1110 331" fill="none" stroke="#b4ae82" stroke-width="1" opacity=".6"/>
+      <path d="M1160 302C1159 291 1165 284 1163 273 1162 265 1159 260 1160 253M1163 279 1175 266m-13 5-12-10m13 23 13-4" fill="none" stroke="#152f28" stroke-width="2.5"/>
+      <g fill="#12372e" stroke="#7b9b74" stroke-width=".5">
+        <path d="M1144 261C1147 256 1155 254 1161 257 1167 253 1173 257 1174 261 1163 264 1154 263 1144 261Z"/>
+        <path d="M1163 269C1167 263 1176 261 1183 265L1190 268C1182 272 1172 271 1163 269Z"/>
+        <path d="M1155 253C1157 249 1162 246 1166 249L1172 252C1167 255 1160 255 1155 253Z"/>
+        <path d="M1167 280C1171 276 1179 275 1184 279 1178 282 1172 282 1167 280Z"/>
+      </g>
+    </g>
+
+    <path d="M843 431C879 414 898 397 926 398 950 399 964 414 988 409 1017 402 1026 380 1054 382 1082 384 1096 403 1124 400 1149 397 1166 374 1192 377 1221 380 1242 405 1280 398V520H843Z" fill="url(#foreground)"/>
+    <path d="M926 398C950 399 964 414 988 409 1017 402 1026 380 1054 382 1082 384 1096 403 1124 400 1149 397 1166 374 1192 377" fill="none" stroke="#7d9977" stroke-width="1" opacity=".4"/>
+    <path d="M1058 398C1077 409 1098 411 1118 408M1164 395C1184 387 1201 394 1216 404" fill="none" stroke="#092c2a" stroke-width="1.4" opacity=".6"/>
+
+    <!-- Quiet lake: broken horizontal strokes, a single boat, and moonlight. -->
+    <rect x="0" y="359" width="1280" height="161" fill="url(#water)"/>
+    <g fill="none" stroke-linecap="round">
+      <g stroke="#73a99a" stroke-width=".8" opacity=".18">
+        <path d="M641 381c40-5 66-5 103-2m26 0 42 1"/>
+        <path d="M587 407c49-6 102-4 133-3m71-1 61 3"/>
+        <path d="M680 430c49-3 83-1 118 0m26 2 66 4"/>
+        <path d="M537 457c60-5 101-4 152-2m34 1 56 1"/>
+        <path d="M792 476c58-2 100 1 132 3m31 1 72 1"/>
+        <path d="M1075 448c49 0 85 4 125 8m24 2 56 4"/>
+        <path d="M581 491c43-4 101-2 139 0"/>
+      </g>
+      <g stroke="#c5af79" stroke-width=".8" opacity=".35">
+        <path d="M922 365c18-2 34-2 51-1m11 0 29 1"/>
+        <path d="M935 373h22m17 1 16 1"/>
+        <path d="M883 389c17-2 37-1 46 0"/>
+        <path d="M731 414c22-2 47-2 65-1"/>
+        <path d="M744 419h19m12 0h8"/>
+        <path d="M982 458c27 1 50 4 72 5"/>
+      </g>
+    </g>
+    <g transform="translate(752 394)" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M-29 0C-13 4 10 5 29-1 21 8-17 10-29 0Z" fill="#0b2627" stroke="#c6b17d" stroke-width="1.15"/>
+      <path d="M-13 0C-12-12 6-15 13 0" fill="#29493e" stroke="#a89e70" stroke-width="1"/>
+      <path d="M-10-3c3-8 14-9 20 0" fill="none" stroke="#a89e70" stroke-width=".6" opacity=".6"/>
+      <path d="M18-3 32-20" fill="none" stroke="#c4b181" stroke-width="1.2"/>
+      <circle cx="18" cy="-10" r="2" fill="#c4b181"/>
+      <path d="M18-8v7l-4 1m4-6 5 1" fill="none" stroke="#c4b181" stroke-width="1.2"/>
+    </g>
+
+    <rect width="632" height="520" fill="url(#text-shade)"/>
+
+    <!-- The generous left margin reads as the blank silk of a hanging scroll. -->
+    <path d="M84 72h26" stroke="#b9a16e" stroke-width="1"/>
+    <text x="123" y="77" fill="#bbc8b6" font-size="15" letter-spacing="2" class="small-cn">董信步 <tspan fill="#6f9086" font-family="Segoe UI, Arial, sans-serif" font-size="11" letter-spacing="2.5"> / XB-DONG</tspan></text>
+    <text x="78" y="191" fill="#e6debe" font-size="75" letter-spacing="6" class="calligraphy">以码为舟</text>
+    <text x="78" y="284" fill="#e6debe" font-size="75" letter-spacing="6" class="calligraphy">山海可渡</text>
+
+    <!-- Cinnabar seal: an intentional handmade edge inside a clean layout. -->
+    <g transform="translate(437 230) rotate(-3)">
+      <path d="M0 1 34 0 35 49 1 50Z" fill="#a6493c"/>
+      <path d="M4 5 30 4 31 45 5 46Z" fill="none" stroke="#e8c3a2" stroke-width=".8" opacity=".8"/>
+      <text x="17.5" y="22" text-anchor="middle" fill="#f0d7b4" font-size="15" class="calligraphy">信</text>
+      <text x="17.5" y="40" text-anchor="middle" fill="#f0d7b4" font-size="15" class="calligraphy">步</text>
+    </g>
+
+    <path d="M88 330h46m12 0h6" fill="none" stroke="#bca56e" stroke-width="1" opacity=".8"/>
+    <text x="88" y="373" fill="#9fb9ad" font-size="16" letter-spacing="2" class="small-cn">在工程与研究之间，探索更远的山海</text>
+    <text x="89" y="422" fill="#c0af82" font-size="11" letter-spacing="3" class="latin">AI · FULL STACK · OPTIMIZATION</text>
+
+    <g fill="none" stroke="#b4aa79" opacity=".23" stroke-width=".7">
+      <path d="M29 58V29h29M1222 29h29v29M1251 462v29h-29M58 491H29v-29"/>
+      <rect x="14.5" y="14.5" width="1251" height="491" rx="7" opacity=".35"/>
+    </g>
+    <text x="1194" y="478" fill="#6c8c7e" font-size="11" letter-spacing="3" text-anchor="end" class="small-cn">行远自迩</text>
+    <circle cx="1214" cy="473" r="3" fill="none" stroke="#a59566" stroke-width=".8" opacity=".65"/>
+  </g>
+</svg>

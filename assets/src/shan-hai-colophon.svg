@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="164" viewBox="0 0 1280 164" role="img" aria-labelledby="title desc">
+  <title id="title">山海有相逢，代码见知己</title>
+  <desc id="desc">黛青色卷尾，金线山峦与朱砂小印。</desc>
+  <rect width="1280" height="164" rx="4" fill="#0c2226"/>
+  <g fill="none" stroke="#5a8d7f" stroke-width="1" opacity=".35">
+    <path d="M0 124Q55 115 100 84Q135 60 159 80Q210 120 260 99Q310 77 365 135"/>
+    <path d="M0 140Q79 97 132 108Q200 148 280 126Q328 112 376 153"/>
+    <path d="M935 144Q1000 95 1044 116Q1088 133 1145 86Q1200 49 1280 117"/>
+    <path d="M986 153Q1052 126 1110 142Q1190 93 1280 133"/>
+  </g>
+  <path d="M440 39H840" stroke="#c2a96e" stroke-opacity=".3"/>
+  <text x="640" y="91" text-anchor="middle" font-family="KaiTi,STKaiti,SimSun,serif" font-size="35" letter-spacing="5" fill="#e1cf9f">山海有相逢，代码见知己。</text>
+  <text x="640" y="126" text-anchor="middle" font-family="Consolas,monospace" font-size="12" letter-spacing="4" fill="#8ca99b">KEEP BUILDING · KEEP EXPLORING</text>
+  <g transform="translate(1020 55)"><rect width="34" height="34" rx="2" fill="none" stroke="#b65b45" stroke-width="1.6"/><text x="17" y="25" text-anchor="middle" font-family="KaiTi,serif" font-size="23" fill="#c4745b">行</text></g>
+</svg>
