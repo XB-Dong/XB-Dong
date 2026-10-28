@@ -2,9 +2,9 @@
   <img src="./assets/pal3-profile-panorama-v4.webp" width="100%" alt="仙剑三画面与董信步角色肖像拼接横幅" />
 </p>
 
-# 董信步 · XB-Dong
+# AI全干工程师
 
-**AI全干工程师**<br />
+
 
 [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=4w56hlIAAAAJ) &nbsp; · &nbsp; [Research](https://github.com/TIO-Team/LLM-NHO) &nbsp; · &nbsp; [Repositories](https://github.com/XB-Dong?tab=repositories)
 
