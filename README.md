@@ -4,8 +4,7 @@
 
 # 董信步 · XB-Dong
 
-**AI Agent · 全栈工程 · 运筹优化**<br />
-深圳大学人工智能硕士在读，本科毕业于吉林大学。
+**AI全干工程师**<br />
 
 [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=4w56hlIAAAAJ) &nbsp; · &nbsp; [Research](https://github.com/TIO-Team/LLM-NHO) &nbsp; · &nbsp; [Repositories](https://github.com/XB-Dong?tab=repositories)
 
