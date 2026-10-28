@@ -6,9 +6,9 @@ Updated: 2026-10-28.
 
 The profile combines a user-supplied Sword and Fairy 3 character-screen header with short native Markdown sections. The first supplied screen is the edit target, the third photograph is the identity reference, and the second screen is a detail reference. The composite retains the original interface composition, costume and backdrop. The original modern photograph is not stored in the repository.
 
-The header is a generative face composite, not a claim of pixel-identical restoration. Existing character-screen lettering belongs to the supplied reference. No design titles, element labels, legends, or explanatory annotations are added to the displayed profile.
+The header is a generative face composite, not a claim of pixel-identical restoration. The vertical red nameplate is corrected to 董信步 at the user's request. Other character-screen lettering belongs to the supplied reference. No design titles, element labels, legends, or explanatory annotations are added to the displayed profile. The introductory slogan was removed at the user's request; the introduction now contains education only.
 
-assets/pal3-profile.webp is the optimized header. assets/pal3-sword.png and assets/pal3-pearl.png are transparent decorative icons, displayed at 18–26 pixels. Assets were produced with the built-in image generation tool, then resized and encoded for delivery. All displayed assets live in this repository, without third-party image hosts or scripts.
+assets/pal3-profile-v2.webp is the current optimized header; the versioned path avoids stale image caches. assets/pal3-sword.png and assets/pal3-pearl.png are transparent decorative icons, displayed at 18–26 pixels. Assets were produced with the built-in image generation tool, then resized and encoded for delivery. All displayed assets live in this repository, without third-party image hosts or scripts.
 
 Names, education, project descriptions, paper details and links remain native text. Portfolio order: ccagent, Classroom Annotator, the live-auction collaboration, research, resume templates, awards. ccagent is described as a workbench with user-confirmed memory and reusable experience; no unverified company performance or autonomous external operations are claimed.
 

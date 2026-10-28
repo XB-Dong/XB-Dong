@@ -1,11 +1,11 @@
 <p>
-  <img src="./assets/pal3-profile.webp" width="100%" alt="董信步的仙剑三角色界面肖像" />
+  <img src="./assets/pal3-profile-v2.webp" width="100%" alt="董信步的仙剑三角色界面肖像" />
 </p>
 
 # 董信步 · XB-Dong
 
 **AI Agent · 全栈工程 · 运筹优化**<br />
-深圳大学人工智能硕士在读，本科毕业于吉林大学机械工程。将模型能力落到具体问题中。
+深圳大学人工智能硕士在读，本科毕业于吉林大学机械工程。
 
 [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=4w56hlIAAAAJ) &nbsp; · &nbsp; [Research](https://github.com/TIO-Team/LLM-NHO) &nbsp; · &nbsp; [Repositories](https://github.com/XB-Dong?tab=repositories)
 
