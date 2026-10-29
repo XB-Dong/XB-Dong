@@ -18,13 +18,13 @@
 
 ### <img src="./assets/pal3-pearl.png" width="20" height="20" align="absmiddle" alt="" /> [Classroom Annotator](https://github.com/XB-Dong/classroom-annotator)
 
-统计出勤人数的数据标注平台：面向课堂视频的人机协同标注工具，连接视频抽帧、AI 预标注、人工复核、多人协作与导出标注。
+统计出勤人数的数据标注平台，功能：视频抽帧、AI 预标注、人工复核、多人协作与导出标注。
 
 `React` · `TypeScript` · `Go` · `PostgreSQL` · `Python`
 
 ### <img src="./assets/pal3-pearl.png" width="20" height="20" align="absmiddle" alt="" /> [ByteDanceliveauctioni](https://github.com/byte-ai-fullstack/ByteDanceliveauctioni)
 
-参与开发的全栈直播电商竞拍系统，覆盖实时竞价、订单结算与 AI 语义检索。参赛获第二名，担任「粤海带专」队长。
+全栈直播电商竞拍系统，覆盖实时竞价、订单结算与 AI 语义检索。参赛获第二名，担任「粤海带专」队长。
 
 `Go` · `React` · `TypeScript` · `WebSocket` · `Redis Lua`
 
@@ -32,7 +32,7 @@
 
 ### <img src="./assets/pal3-pearl.png" width="20" height="20" align="absmiddle" alt="" /> [LLM-NHO](https://github.com/TIO-Team/LLM-NHO)
 
-大模型驱动的神经–启发式大规模路径优化，探索 TSP / CVRP 求解。
+大模型驱动的神经–启发式大规模路径优化，探索 TSP / CVRP 求解（大模型应用于优化算法）。
 
 论文 *Large Language Model-Driven Neural-Heuristic Optimization for Large-Scale Routing Problems* 发表于 **IEEE Transactions on Evolutionary Computation（TEVC）**，导师一作、本人二作。
 
