@@ -18,7 +18,7 @@
 
 ### <img src="./assets/pal3-pearl.png" width="20" height="20" align="absmiddle" alt="" /> [Classroom Annotator](https://github.com/XB-Dong/classroom-annotator)
 
-面向课堂视频的人机协同标注工具，连接视频抽帧、AI 预标注、人工复核、多人协作与 COCO 数据集导出。
+统计出勤人数的数据标注平台：面向课堂视频的人机协同标注工具，连接视频抽帧、AI 预标注、人工复核、多人协作与导出标注。
 
 `React` · `TypeScript` · `Go` · `PostgreSQL` · `Python`
 
