@@ -12,19 +12,19 @@
 
 ### <img src="./assets/pal3-pearl.png" width="20" height="20" align="absmiddle" alt="" /> [ccagent](https://github.com/XB-Dong/ccagent)
 
-基于 **DeepSeek Harness** 的cc专属亚马逊运营 AI 工作台。活动日历、库存补货和广告分析，是运营的靠谱AI助手。亮点：运营反馈意见将自动由“基于codex原生多agent无人开发团队”审核推进该助手项目的自我迭代更新，真人只负责修改的审核与merge到main分支。没想到吧，AI不仅可以取代程序员，甚至是整一个互联网工作小组，从leader到产品到前端后端测试全干，我愿称自己为AI全干工程师😀
+为深圳某电商公司搭建的基于 **DeepSeek Harness** 的专属亚马逊运营 AI 工作台。活动日历、库存补货和广告分析，是运营的靠谱AI助手。亮点：运营反馈意见将自动由“基于codex原生多agent无人开发团队”审核推进该助手项目的自我迭代更新，真人只负责修改的审核与merge到main分支。没想到吧，AI不仅可以取代程序员，甚至是整一个互联网工作小组，从leader到产品到前端后端测试全干，我愿称自己为AI全干工程师😀
 
 `React` · `TypeScript` · `Node.js` · `SQLite` · `DeepSeek Harness`
 
 ### <img src="./assets/pal3-pearl.png" width="20" height="20" align="absmiddle" alt="" /> [Classroom Annotator](https://github.com/XB-Dong/classroom-annotator)
 
-统计出勤人数的数据标注平台，功能：视频抽帧、AI 预标注、人工复核、多人协作与导出标注。
+CVTE实习项目：统计出勤人数的数据标注平台，功能：视频抽帧、AI 预标注、人工复核、多人协作与导出标注。
 
 `React` · `TypeScript` · `Go` · `PostgreSQL` · `Python`
 
 ### <img src="./assets/pal3-pearl.png" width="20" height="20" align="absmiddle" alt="" /> [ByteDanceliveauctioni](https://github.com/byte-ai-fullstack/ByteDanceliveauctioni)
 
-全栈直播电商竞拍系统，覆盖实时竞价、订单结算与 AI 语义检索。参赛获第二名，担任「粤海带专」队长。
+字节跳动AI全栈挑战赛：全栈直播电商竞拍系统，覆盖实时竞价、订单结算与 AI 语义检索。参赛获第二名，担任「粤海带专」队长。
 
 `Go` · `React` · `TypeScript` · `WebSocket` · `Redis Lua`
 
@@ -32,7 +32,7 @@
 
 ### <img src="./assets/pal3-pearl.png" width="20" height="20" align="absmiddle" alt="" /> [LLM-NHO](https://github.com/TIO-Team/LLM-NHO)
 
-大模型驱动的神经–启发式大规模路径优化，探索 TSP / CVRP 求解（大模型应用于优化算法）。
+顶刊论文：大模型驱动的神经–启发式大规模路径优化，探索 TSP / CVRP 求解（大模型应用于优化算法）。
 
 论文 *Large Language Model-Driven Neural-Heuristic Optimization for Large-Scale Routing Problems* 发表于 **IEEE Transactions on Evolutionary Computation（TEVC）**，导师一作、本人二作。
 
