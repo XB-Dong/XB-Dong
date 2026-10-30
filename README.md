@@ -34,7 +34,7 @@ CVTE实习项目：统计出勤人数的数据标注平台，功能：视频抽�
 
 顶刊论文：大模型驱动的神经–启发式大规模路径优化，探索 TSP / CVRP 求解（大模型应用于优化算法）。
 
-论文 *Large Language Model-Driven Neural-Heuristic Optimization for Large-Scale Routing Problems* 发表于 **IEEE Transactions on Evolutionary Computation（TEVC）**，导师一作、本人二作。
+论文 *Large Language Model-Driven Neural-Heuristic Optimization for Large-Scale Routing Problems* 发表于 **IEEE Transactions on Evolutionary Computation（TEVC）**。
 
 [Paper](https://ieeexplore.ieee.org/abstract/document/11509330/) &nbsp; · &nbsp; [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=4w56hlIAAAAJ)
 
