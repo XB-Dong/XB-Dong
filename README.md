@@ -12,7 +12,7 @@
 
 ### <img src="./assets/pal3-pearl.png" width="20" height="20" align="absmiddle" alt="" /> [ccagent](https://github.com/XB-Dong/ccagent)
 
-为深圳某电商公司搭建的基于 **DeepSeek Harness** 的专属亚马逊运营 AI 工作台。活动日历、库存补货和广告分析，是运营的靠谱AI助手。亮点：运营反馈意见将自动由“基于codex原生多agent无人开发团队”审核推进该助手项目的自我迭代更新，真人只负责修改的审核与merge到main分支。没想到吧，AI不仅可以取代程序员，甚至是整一个互联网工作小组，从leader到产品到前端后端测试全干，我愿称自己为AI全干工程师😀
+为深圳某电商公司搭建的亚马逊运营 AI 工作台: 基于 **DeepSeek Harness** 开发，活动日历、库存补货和广告分析，是运营的靠谱AI助手。亮点：运营反馈意见将自动由“基于codex原生多agent无人开发团队”审核推进该助手项目的自我迭代更新，真人只负责修改的审核与merge到main分支。没想到吧，AI不仅可以取代程序员，甚至是整一个互联网工作小组，从leader到产品到前端后端测试全干，我愿称自己为AI全干工程师😀
 
 `React` · `TypeScript` · `Node.js` · `SQLite` · `DeepSeek Harness`
 
