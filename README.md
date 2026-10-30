@@ -28,6 +28,12 @@ CVTE实习项目：统计出勤人数的数据标注平台，功能：视频抽�
 
 `Go` · `React` · `TypeScript` · `WebSocket` · `Redis Lua`
 
+### <img src="./assets/pal3-pearl.png" width="20" height="20" align="absmiddle" alt="" /> [疏影 · 素材制作工作室](https://github.com/XB-Dong/quvideo-material-studio)
+
+小影科技 2027 校招全栈笔试项目：模板浏览、图片上传、异步制作与个人作品管理，支持查看任务进度、失败原因和结果预览。素材制作使用可控模拟生成器。
+
+`Next.js` · `TypeScript` · `Java` · `Spring Boot` · `MyBatis` · `MySQL`
+
 ## <img src="./assets/pal3-sword.png" width="24" height="24" align="absmiddle" alt="" /> Research
 
 ### <img src="./assets/pal3-pearl.png" width="20" height="20" align="absmiddle" alt="" /> [LLM-NHO](https://github.com/TIO-Team/LLM-NHO)
