@@ -1,5 +1,5 @@
 <p>
-  <img src="./assets/pal3-profile-panorama-v4.webp" width="100%" alt="仙剑三画面与董信步角色肖像拼接横幅" />
+  <img src="./assets/pal3-profile-panorama-v5.webp" width="100%" alt="仙剑三画面与董信步角色肖像拼接横幅" />
 </p>
 
 # AI全干工程师
