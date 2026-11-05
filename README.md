@@ -10,11 +10,11 @@
 
 ## <img src="./assets/pal3-sword.png" width="24" height="24" align="absmiddle" alt="" /> Projects
 
-### <img src="./assets/pal3-pearl.png" width="20" height="20" align="absmiddle" alt="" /> [ccagent](https://github.com/XB-Dong/ccagent)
+### <img src="./assets/pal3-pearl.png" width="20" height="20" align="absmiddle" alt="" /> [AmazonOps SuperAgent](https://github.com/XB-Dong/dsh-amazonops-superagent)
 
-为深圳某电商公司搭建的亚马逊运营 AI 工作台：基于 **DeepSeek Harness** 开发，活动日历、库存补货和广告分析，是运营的靠谱AI助手。亮点：运营反馈意见将自动由“基于codex原生多agent无人开发团队”审核推进该助手项目的自我迭代更新，真人只负责修改的审核与merge到main分支。没想到吧，AI不仅可以取代程序员，甚至是整一个互联网工作小组，从leader到产品到前端后端测试全干，我愿称自己为AI全干工程师😀
+亚马逊运营 AI 工作台，已在云端接替 ccagent。以官方 **DeepSeek Harness + SuperAgent** 为底座，覆盖任务、活动日历、库存补货、发货协同和广告分析。亮点：在明确授权的期限内，库存变化可以续办同一工单，需要选择时交回人工；缺货复核先观察，再为选中的对象准备待确认内部草稿。开发使用 Codex 原生多 Agent 分工，按规格、行为测试、独立审核及真实浏览器/模型验收持续迭代，运营建议和处理历史保持可追溯。
 
-`React` · `TypeScript` · `Node.js` · `SQLite` · `DeepSeek Harness`
+`React` · `TypeScript` · `Node.js` · `SQLite` · `DeepSeek Harness` · `SuperAgent`
 
 ### <img src="./assets/pal3-pearl.png" width="20" height="20" align="absmiddle" alt="" /> [Classroom Annotator](https://github.com/XB-Dong/classroom-annotator)
 
